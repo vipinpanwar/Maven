@@ -1,0 +1,1085 @@
+2020-05-24 12:30:02,590 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-24 12:33:04,421 [Worker-16: Creating project "helloWorld2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-24 12:33:05,842 [Worker-16: Creating project "helloWorld2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/main/java
+2020-05-24 12:33:05,844 [Worker-16: Creating project "helloWorld2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/main/resources
+2020-05-24 12:33:05,845 [Worker-16: Creating project "helloWorld2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/test/java
+2020-05-24 12:33:05,846 [Worker-16: Creating project "helloWorld2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/test/resources
+2020-05-24 12:33:07,597 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-24 12:33:07,603 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 12:33:07,605 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-24 12:33:07,607 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:16:16,855 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-24 23:16:28,935 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-24 23:16:29,105 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:16:29,120 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-24 23:16:29,120 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:18:50,343 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.pom
+2020-05-24 23:18:50,919 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.pom
+2020-05-24 23:18:51,267 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.2.0.Final/mapstruct-parent-1.2.0.Final.pom
+2020-05-24 23:18:51,520 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-24 23:18:51,921 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.2.0.Final/mapstruct-parent-1.2.0.Final.pom
+2020-05-24 23:18:52,352 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2020-05-24 23:18:52,372 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.2.0.Final/mapstruct-parent-1.2.0.Final.pom
+2020-05-24 23:18:52,751 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2020-05-24 23:18:52,804 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.2.0.Final/mapstruct-parent-1.2.0.Final.pom
+2020-05-24 23:18:53,020 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2020-05-24 23:18:53,152 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2020-05-24 23:18:53,221 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2020-05-24 23:18:53,431 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2020-05-24 23:18:53,879 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2020-05-24 23:18:53,879 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2020-05-24 23:18:54,096 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2020-05-24 23:18:54,281 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2020-05-24 23:18:54,319 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2020-05-24 23:18:54,535 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar
+2020-05-24 23:18:54,713 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2020-05-24 23:18:55,115 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar
+2020-05-24 23:18:55,184 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar
+2020-05-24 23:18:55,866 [Worker-8: Loading Effective POM...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar
+2020-05-24 23:18:56,401 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:18:56,418 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:18:56,418 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:18:56,418 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:18:57,804 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:18:57,804 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:18:57,804 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:18:57,804 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:18:57,989 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final-sources.jar
+2020-05-24 23:18:58,838 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final-sources.jar
+2020-05-24 23:18:58,985 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mapstruct:mapstruct:1.2.0.Final
+2020-05-24 23:18:59,192 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:18:59,192 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:18:59,192 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:18:59,192 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:19:51,291 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:19:51,291 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:19:51,307 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:19:51,307 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:00,115 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:00,115 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:00,115 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:00,115 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:08,543 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:08,559 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:08,559 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:08,559 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:31,614 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:31,614 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:31,614 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:31,614 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:32,632 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:32,632 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:32,632 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:32,632 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:42,658 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:42,658 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:20:42,658 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:20:42,658 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:21:39,780 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:21:39,780 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:21:39,780 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:21:39,790 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:22:51,989 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:22:51,989 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:22:51,989 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:22:51,989 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:23:02,541 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:23:02,541 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:23:02,541 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:23:02,541 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:23:21,044 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:23:21,044 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:23:21,044 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:23:21,059 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:23:36,153 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:23:36,153 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:23:36,153 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:23:36,153 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:26:52,819 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:26:52,821 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:26:52,825 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:26:52,826 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:28:45,085 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:28:45,085 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:28:45,094 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:28:45,094 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:28:46,129 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:28:46,130 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:28:46,133 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:28:46,133 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:30:12,362 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:30:12,364 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:30:12,366 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:30:12,368 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:30:29,165 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:30:29,166 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:30:29,168 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:30:29,168 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:30:32,166 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:30:32,167 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:30:32,168 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:30:32,168 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:31:04,783 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:31:04,789 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:31:04,792 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:31:04,793 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:31:46,736 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:31:46,737 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:31:46,740 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:31:46,742 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:31:51,622 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: <project root> [in helloWorld2] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583) ~[na:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:256) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:516) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:641) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:51) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:69) ~[na:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:78) ~[na:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:124) ~[na:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:338) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:324) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$2(WorkbenchPage.java:305) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:213) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:253) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:250) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:774) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:683) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:678) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3213) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3110) ~[na:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3108) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3078) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3069) ~[na:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:376) ~[na:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:182) ~[na:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:287) ~[na:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:252) ~[na:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274) ~[na:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252) ~[na:na]
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:53) ~[na:na]
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:215) ~[na:na]
+	at org.eclipse.ui.navigator.CommonNavigatorManager$1.open(CommonNavigatorManager.java:183) ~[na:na]
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48) ~[na:na]
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:797) ~[org.eclipse.jface_3.17.0.v20190820-1444.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47) ~[na:na]
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174) ~[org.eclipse.jface_3.17.0.v20190820-1444.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:794) ~[org.eclipse.jface_3.17.0.v20190820-1444.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1110) ~[org.eclipse.jface_3.17.0.v20190820-1444.jar:na]
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:454) ~[na:na]
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:275) ~[org.eclipse.jface_3.17.0.v20190820-1444.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:270) ~[org.eclipse.jface_3.17.0.v20190820-1444.jar:na]
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:310) ~[org.eclipse.jface_3.17.0.v20190820-1444.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4173) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3986) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3585) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.300.v20190815-1535.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
+2020-05-24 23:32:07,199 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: <project root> [in helloWorld2] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583) ~[na:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:256) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:516) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:641) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:51) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:69) ~[na:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:78) ~[na:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:124) ~[na:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:338) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:324) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$2(WorkbenchPage.java:305) ~[na:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:213) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:253) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:250) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:774) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:683) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.AbstractPartRenderer.activate(AbstractPartRenderer.java:97) ~[na:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.lambda$0(ContributedPartRenderer.java:63) ~[na:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4173) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1510) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1473) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Control.sendFocusEvent(Control.java:2968) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Widget.wmSetFocus(Widget.java:2248) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Control.WM_SETFOCUS(Control.java:5412) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4829) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4812) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.internal.win32.OS.SetFocus(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Control.forceFocus(Control.java:1111) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Control.setFocus(Control.java:3453) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1101) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1099) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor.setFocus(ClassFileEditor.java:986) ~[na:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.delegateSetFocus(CompatibilityPart.java:222) ~[na:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor80.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58) ~[na:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:318) ~[na:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:324) ~[na:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:246) ~[na:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:147) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.focusGui(PartRenderingEngine.java:795) ~[na:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.setFocus(ContributedPartRenderer.java:106) ~[na:na]
+	at org.eclipse.swt.custom.CTabItem.setFocus(CTabItem.java:343) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setFocus(CTabFolder.java:2637) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Control.fixFocus(Control.java:1066) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Control.setVisible(Control.java:3964) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3181) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3189) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1876) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:330) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4173) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3986) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3585) ~[org.eclipse.swt.win32.win32.x86_64_3.112.0.v20190904-0609.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.300.v20190815-1535.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.15.0.v20190830-1434.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
+2020-05-24 23:37:25,381 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-24 23:37:26,014 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-24 23:37:27,549 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/main/java
+2020-05-24 23:37:27,549 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/main/resources
+2020-05-24 23:37:27,568 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/test/java
+2020-05-24 23:37:27,579 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/test/resources
+2020-05-24 23:37:28,098 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-05-24 23:37:28,410 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:37:28,410 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:37:28,414 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:37:28,414 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:38:41,954 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-24 23:38:42,511 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-24 23:38:42,791 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/main/java
+2020-05-24 23:38:42,791 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/main/resources
+2020-05-24 23:38:42,792 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/test/java
+2020-05-24 23:38:42,792 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/test/resources
+2020-05-24 23:38:42,896 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-24 23:38:43,098 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:38:43,099 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:38:43,101 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:38:43,101 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:40:58,988 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.jar
+2020-05-24 23:40:59,850 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.jar
+2020-05-24 23:41:00,419 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.pom
+2020-05-24 23:41:00,740 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.pom
+2020-05-24 23:41:01,035 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/28/maven-plugins-28.pom
+2020-05-24 23:41:01,479 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/28/maven-plugins-28.pom
+2020-05-24 23:41:04,209 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.pom
+2020-05-24 23:41:04,705 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.pom
+2020-05-24 23:41:04,925 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.7/plexus-compiler-2.7.pom
+2020-05-24 23:41:05,175 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.7/plexus-compiler-2.7.pom
+2020-05-24 23:41:05,436 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.pom
+2020-05-24 23:41:05,685 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.pom
+2020-05-24 23:41:05,948 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.pom
+2020-05-24 23:41:06,187 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.pom
+2020-05-24 23:41:06,460 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.7/plexus-compilers-2.7.pom
+2020-05-24 23:41:07,104 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.7/plexus-compilers-2.7.pom
+2020-05-24 23:41:07,489 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.jar
+2020-05-24 23:41:08,147 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.jar
+2020-05-24 23:41:08,414 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.jar
+2020-05-24 23:41:08,751 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.jar
+2020-05-24 23:41:09,031 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.jar
+2020-05-24 23:41:09,602 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.jar
+2020-05-24 23:41:11,613 [Worker-25: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-24 23:41:12,504 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.pom
+2020-05-24 23:41:13,116 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.pom
+2020-05-24 23:41:13,428 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.3.1.Final/mapstruct-parent-1.3.1.Final.pom
+2020-05-24 23:41:13,892 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-parent/1.3.1.Final/mapstruct-parent-1.3.1.Final.pom
+2020-05-24 23:41:14,141 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.jar
+2020-05-24 23:41:14,940 [Worker-25: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.jar
+2020-05-24 23:41:16,068 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:41:16,070 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:41:16,072 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:41:16,072 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:41:17,605 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:41:17,605 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:41:17,609 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:41:17,610 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:41:18,036 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final-sources.jar
+2020-05-24 23:41:19,916 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final-sources.jar
+2020-05-24 23:41:20,071 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mapstruct:mapstruct:1.3.1.Final
+2020-05-24 23:41:20,242 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:41:20,242 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:41:20,244 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:41:20,245 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:42:10,090 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:42:10,096 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:42:10,098 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:42:10,099 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:49:14,192 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:49:14,196 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:49:14,197 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:49:14,199 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:50:42,826 [Worker-28: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-24 23:50:44,328 [Worker-28: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2020-05-24 23:50:44,902 [Worker-28: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2020-05-24 23:50:45,349 [Worker-28: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2020-05-24 23:50:50,919 [Worker-28: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2020-05-24 23:50:51,681 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:50:51,681 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:50:51,691 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:50:51,692 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:50:53,477 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:50:53,478 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:50:53,479 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:50:53,480 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:50:54,359 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+2020-05-24 23:51:00,194 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+2020-05-24 23:51:01,391 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.3.2
+2020-05-24 23:51:01,581 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:51:01,582 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:51:01,582 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:51:01,583 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:51:08,581 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:51:08,583 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:51:08,584 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:51:08,585 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:51:11,230 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:51:11,231 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 23:51:11,233 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 23:51:11,234 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:01:58,189 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-25 19:04:26,916 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-compiler/3.0.0-01/groovy-eclipse-compiler-3.0.0-01.pom
+2020-05-25 19:04:27,338 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-compiler/3.0.0-01/groovy-eclipse-compiler-3.0.0-01.pom
+2020-05-25 19:04:28,315 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.pom
+2020-05-25 19:04:29,984 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.pom
+2020-05-25 19:04:30,619 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.pom
+2020-05-25 19:04:32,031 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+2020-05-25 19:04:32,313 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+2020-05-25 19:04:32,558 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+2020-05-25 19:04:33,261 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.pom
+2020-05-25 19:04:33,568 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.pom
+2020-05-25 19:04:33,885 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.pom
+2020-05-25 19:04:34,284 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/xbean/xbean/3.7/xbean-3.7.pom
+2020-05-25 19:04:34,593 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.7/xbean-3.7.pom
+2020-05-25 19:04:35,640 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.7/xbean-3.7.pom
+2020-05-25 19:04:36,028 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom
+2020-05-25 19:04:36,442 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom
+2020-05-25 19:04:36,767 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom
+2020-05-25 19:04:37,155 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/geronimo/genesis/genesis-default-flava/2.0/genesis-default-flava-2.0.pom
+2020-05-25 19:04:37,459 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-default-flava/2.0/genesis-default-flava-2.0.pom
+2020-05-25 19:04:37,782 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-default-flava/2.0/genesis-default-flava-2.0.pom
+2020-05-25 19:04:38,179 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/geronimo/genesis/genesis/2.0/genesis-2.0.pom
+2020-05-25 19:04:38,483 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/2.0/genesis-2.0.pom
+2020-05-25 19:04:38,736 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/2.0/genesis-2.0.pom
+2020-05-25 19:04:40,420 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-plugin-api/2.0.11/maven-plugin-api-2.0.11.pom
+2020-05-25 19:04:40,737 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.11/maven-plugin-api-2.0.11.pom
+2020-05-25 19:04:41,397 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.11/maven-plugin-api-2.0.11.pom
+2020-05-25 19:04:43,094 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven/2.0.11/maven-2.0.11.pom
+2020-05-25 19:04:43,318 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.11/maven-2.0.11.pom
+2020-05-25 19:04:43,576 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.11/maven-2.0.11.pom
+2020-05-25 19:04:43,871 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-parent/12/maven-parent-12.pom
+2020-05-25 19:04:44,115 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/12/maven-parent-12.pom
+2020-05-25 19:04:44,769 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/12/maven-parent-12.pom
+2020-05-25 19:04:45,143 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-core/2.0.11/maven-core-2.0.11.pom
+2020-05-25 19:04:45,369 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.11/maven-core-2.0.11.pom
+2020-05-25 19:04:45,611 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.11/maven-core-2.0.11.pom
+2020-05-25 19:04:45,914 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-settings/2.0.11/maven-settings-2.0.11.pom
+2020-05-25 19:04:46,140 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.11/maven-settings-2.0.11.pom
+2020-05-25 19:04:46,383 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.11/maven-settings-2.0.11.pom
+2020-05-25 19:04:46,682 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-model/2.0.11/maven-model-2.0.11.pom
+2020-05-25 19:04:46,902 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.11/maven-model-2.0.11.pom
+2020-05-25 19:04:47,146 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.11/maven-model-2.0.11.pom
+2020-05-25 19:04:48,241 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-plugin-parameter-documenter/2.0.11/maven-plugin-parameter-documenter-2.0.11.pom
+2020-05-25 19:04:48,462 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.11/maven-plugin-parameter-documenter-2.0.11.pom
+2020-05-25 19:04:48,738 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.11/maven-plugin-parameter-documenter-2.0.11.pom
+2020-05-25 19:04:49,045 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/reporting/maven-reporting-api/2.0.11/maven-reporting-api-2.0.11.pom
+2020-05-25 19:04:49,266 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.11/maven-reporting-api-2.0.11.pom
+2020-05-25 19:04:49,535 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.11/maven-reporting-api-2.0.11.pom
+2020-05-25 19:04:49,836 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/reporting/maven-reporting/2.0.11/maven-reporting-2.0.11.pom
+2020-05-25 19:04:50,059 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.11/maven-reporting-2.0.11.pom
+2020-05-25 19:04:50,304 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.11/maven-reporting-2.0.11.pom
+2020-05-25 19:04:50,867 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-profile/2.0.11/maven-profile-2.0.11.pom
+2020-05-25 19:04:51,183 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.11/maven-profile-2.0.11.pom
+2020-05-25 19:04:51,703 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.11/maven-profile-2.0.11.pom
+2020-05-25 19:04:52,207 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-artifact/2.0.11/maven-artifact-2.0.11.pom
+2020-05-25 19:04:52,457 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.11/maven-artifact-2.0.11.pom
+2020-05-25 19:04:52,732 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.11/maven-artifact-2.0.11.pom
+2020-05-25 19:04:53,126 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-repository-metadata/2.0.11/maven-repository-metadata-2.0.11.pom
+2020-05-25 19:04:53,356 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.11/maven-repository-metadata-2.0.11.pom
+2020-05-25 19:04:53,601 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.11/maven-repository-metadata-2.0.11.pom
+2020-05-25 19:04:53,947 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-error-diagnostics/2.0.11/maven-error-diagnostics-2.0.11.pom
+2020-05-25 19:04:54,253 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.11/maven-error-diagnostics-2.0.11.pom
+2020-05-25 19:04:54,571 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.11/maven-error-diagnostics-2.0.11.pom
+2020-05-25 19:04:54,980 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-project/2.0.11/maven-project-2.0.11.pom
+2020-05-25 19:04:55,277 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.11/maven-project-2.0.11.pom
+2020-05-25 19:04:55,646 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.11/maven-project-2.0.11.pom
+2020-05-25 19:04:56,093 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-artifact-manager/2.0.11/maven-artifact-manager-2.0.11.pom
+2020-05-25 19:04:56,405 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.11/maven-artifact-manager-2.0.11.pom
+2020-05-25 19:04:56,732 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.11/maven-artifact-manager-2.0.11.pom
+2020-05-25 19:04:57,094 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-plugin-registry/2.0.11/maven-plugin-registry-2.0.11.pom
+2020-05-25 19:04:57,633 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.11/maven-plugin-registry-2.0.11.pom
+2020-05-25 19:04:57,874 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.11/maven-plugin-registry-2.0.11.pom
+2020-05-25 19:04:58,238 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-plugin-descriptor/2.0.11/maven-plugin-descriptor-2.0.11.pom
+2020-05-25 19:04:58,458 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.11/maven-plugin-descriptor-2.0.11.pom
+2020-05-25 19:04:58,785 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.11/maven-plugin-descriptor-2.0.11.pom
+2020-05-25 19:04:59,109 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/maven/maven-monitor/2.0.11/maven-monitor-2.0.11.pom
+2020-05-25 19:04:59,331 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.11/maven-monitor-2.0.11.pom
+2020-05-25 19:04:59,590 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.11/maven-monitor-2.0.11.pom
+2020-05-25 19:05:00,021 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-batch/2.5.4-01/groovy-eclipse-batch-2.5.4-01.pom
+2020-05-25 19:05:00,410 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-batch/2.5.4-01/groovy-eclipse-batch-2.5.4-01.pom
+2020-05-25 19:05:06,446 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-compiler/3.0.0-01/groovy-eclipse-compiler-3.0.0-01.jar
+2020-05-25 19:05:07,536 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-compiler/3.0.0-01/groovy-eclipse-compiler-3.0.0-01.jar
+2020-05-25 19:05:07,811 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.jar
+2020-05-25 19:05:08,088 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar
+2020-05-25 19:05:09,103 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-batch/2.5.4-01/groovy-eclipse-batch-2.5.4-01.jar
+2020-05-25 19:05:12,181 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/groovy/maven/org/codehaus/groovy/groovy-eclipse-batch/2.5.4-01/groovy-eclipse-batch-2.5.4-01.jar
+2020-05-25 19:05:13,813 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.jar
+2020-05-25 19:05:15,115 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.jar
+2020-05-25 19:05:15,327 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar
+2020-05-25 19:05:16,392 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar
+2020-05-25 19:05:19,855 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-25 19:05:21,871 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:05:21,894 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:05:21,897 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:05:21,897 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:05:25,692 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/2.5.4/groovy-all-2.5.4.pom
+2020-05-25 19:05:26,217 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/2.5.4/groovy-all-2.5.4.pom
+2020-05-25 19:05:26,280 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-25 19:05:26,510 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.pom
+2020-05-25 19:05:27,130 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.pom
+2020-05-25 19:05:27,312 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.pom
+2020-05-25 19:05:27,543 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.pom
+2020-05-25 19:05:27,557 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.pom
+2020-05-25 19:05:27,841 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.pom
+2020-05-25 19:05:27,869 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.pom
+2020-05-25 19:05:28,149 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.pom
+2020-05-25 19:05:28,168 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.pom
+2020-05-25 19:05:28,356 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.pom
+2020-05-25 19:05:28,379 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.pom
+2020-05-25 19:05:28,559 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.9.13/ant-parent-1.9.13.pom
+2020-05-25 19:05:28,611 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.pom
+2020-05-25 19:05:28,868 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.9.13/ant-parent-1.9.13.pom
+2020-05-25 19:05:28,881 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.9.13/ant-parent-1.9.13.pom
+2020-05-25 19:05:29,088 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.9.13/ant-parent-1.9.13.pom
+2020-05-25 19:05:29,099 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.pom
+2020-05-25 19:05:29,297 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.pom
+2020-05-25 19:05:29,307 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.pom
+2020-05-25 19:05:29,584 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.pom
+2020-05-25 19:05:29,594 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.pom
+2020-05-25 19:05:29,889 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.pom
+2020-05-25 19:05:29,916 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.pom
+2020-05-25 19:05:30,117 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.pom
+2020-05-25 19:05:30,123 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.pom
+2020-05-25 19:05:30,325 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.pom
+2020-05-25 19:05:30,343 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.pom
+2020-05-25 19:05:30,609 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.pom
+2020-05-25 19:05:30,635 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.pom
+2020-05-25 19:05:30,835 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.pom
+2020-05-25 19:05:30,872 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.pom
+2020-05-25 19:05:31,038 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.pom
+2020-05-25 19:05:31,085 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.pom
+2020-05-25 19:05:31,402 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.pom
+2020-05-25 19:05:31,428 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.pom
+2020-05-25 19:05:31,636 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2020-05-25 19:05:31,650 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.pom
+2020-05-25 19:05:31,854 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2020-05-25 19:05:31,871 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2020-05-25 19:05:32,147 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2020-05-25 19:05:32,149 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.pom
+2020-05-25 19:05:32,455 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.pom
+2020-05-25 19:05:32,467 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.pom
+2020-05-25 19:05:32,772 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.pom
+2020-05-25 19:05:32,790 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.pom
+2020-05-25 19:05:33,033 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.pom
+2020-05-25 19:05:33,048 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.pom
+2020-05-25 19:05:33,235 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.pom
+2020-05-25 19:05:33,253 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.pom
+2020-05-25 19:05:33,439 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.pom
+2020-05-25 19:05:33,472 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.pom
+2020-05-25 19:05:33,698 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.pom
+2020-05-25 19:05:33,724 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.pom
+2020-05-25 19:05:33,900 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.pom
+2020-05-25 19:05:33,993 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.pom
+2020-05-25 19:05:34,204 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.pom
+2020-05-25 19:05:34,276 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.pom
+2020-05-25 19:05:34,422 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.pom
+2020-05-25 19:05:34,481 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.pom
+2020-05-25 19:05:34,634 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.pom
+2020-05-25 19:05:34,710 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.pom
+2020-05-25 19:05:34,867 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.pom
+2020-05-25 19:05:34,911 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.pom
+2020-05-25 19:05:35,085 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.pom
+2020-05-25 19:05:35,161 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.pom
+2020-05-25 19:05:35,308 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.pom
+2020-05-25 19:05:35,363 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.pom
+2020-05-25 19:05:35,518 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.pom
+2020-05-25 19:05:35,585 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.pom
+2020-05-25 19:05:35,754 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.pom
+2020-05-25 19:05:35,788 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.pom
+2020-05-25 19:05:35,962 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+2020-05-25 19:05:36,029 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.pom
+2020-05-25 19:05:36,189 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+2020-05-25 19:05:36,238 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+2020-05-25 19:05:36,393 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2020-05-25 19:05:36,481 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+2020-05-25 19:05:36,608 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2020-05-25 19:05:36,684 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2020-05-25 19:05:36,813 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.pom
+2020-05-25 19:05:36,882 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2020-05-25 19:05:37,026 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.pom
+2020-05-25 19:05:37,082 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.pom
+2020-05-25 19:05:37,260 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom
+2020-05-25 19:05:37,302 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.pom
+2020-05-25 19:05:37,500 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom
+2020-05-25 19:05:37,503 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom
+2020-05-25 19:05:37,728 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom
+2020-05-25 19:05:37,729 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.pom
+2020-05-25 19:05:37,939 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.pom
+2020-05-25 19:05:37,949 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.pom
+2020-05-25 19:05:38,158 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.pom
+2020-05-25 19:05:38,164 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.pom
+2020-05-25 19:05:38,364 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.pom
+2020-05-25 19:05:38,378 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.pom
+2020-05-25 19:05:38,588 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.pom
+2020-05-25 19:05:38,590 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.pom
+2020-05-25 19:05:38,794 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.pom
+2020-05-25 19:05:39,019 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.pom
+2020-05-25 19:05:39,248 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.pom
+2020-05-25 19:05:39,288 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.pom
+2020-05-25 19:05:39,475 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.pom
+2020-05-25 19:05:39,486 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.pom
+2020-05-25 19:05:39,721 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.pom
+2020-05-25 19:05:39,746 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.pom
+2020-05-25 19:05:39,934 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.pom
+2020-05-25 19:05:39,947 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.pom
+2020-05-25 19:05:40,163 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.pom
+2020-05-25 19:05:40,181 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.pom
+2020-05-25 19:05:40,384 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.pom
+2020-05-25 19:05:40,472 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.pom
+2020-05-25 19:05:40,592 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.pom
+2020-05-25 19:05:40,694 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.pom
+2020-05-25 19:05:40,826 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.pom
+2020-05-25 19:05:40,894 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.pom
+2020-05-25 19:05:41,061 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.pom
+2020-05-25 19:05:41,121 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.pom
+2020-05-25 19:05:41,292 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.pom
+2020-05-25 19:05:41,326 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.pom
+2020-05-25 19:05:41,576 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.pom
+2020-05-25 19:05:41,681 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.pom
+2020-05-25 19:05:41,786 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.pom
+2020-05-25 19:05:41,898 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.pom
+2020-05-25 19:05:42,006 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.pom
+2020-05-25 19:05:42,139 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom
+2020-05-25 19:05:42,249 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom
+2020-05-25 19:05:42,344 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom
+2020-05-25 19:05:42,456 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom
+2020-05-25 19:05:42,579 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom
+2020-05-25 19:05:42,656 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom
+2020-05-25 19:05:42,789 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom
+2020-05-25 19:05:42,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom
+2020-05-25 19:05:43,099 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pom
+2020-05-25 19:05:43,099 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pom
+2020-05-25 19:05:43,426 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pom
+2020-05-25 19:05:43,441 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pom
+2020-05-25 19:05:43,721 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom
+2020-05-25 19:05:43,721 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom
+2020-05-25 19:05:43,939 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom
+2020-05-25 19:05:43,949 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom
+2020-05-25 19:05:44,161 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom
+2020-05-25 19:05:44,176 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom
+2020-05-25 19:05:44,445 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom
+2020-05-25 19:05:44,452 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom
+2020-05-25 19:05:44,669 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.pom
+2020-05-25 19:05:44,670 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.pom
+2020-05-25 19:05:44,891 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.pom
+2020-05-25 19:05:44,898 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.pom
+2020-05-25 19:05:44,929 [Worker-15: reload maven project] WARN  o.e.a.i.impl.TrackingFileManager - Failed to write tracking file C:\Users\v127p\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.3.1\junit-jupiter-engine-5.3.1.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\v127p\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.3.1\junit-jupiter-engine-5.3.1.pom.lastUpdated (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.RandomAccessFile.open0(Native Method) ~[na:na]
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:347) ~[na:na]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:261) ~[na:na]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:216) ~[na:na]
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:99) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:588) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:524) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:624) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:514) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:400) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:225) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:202) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:240) ~[maven-resolver-provider-3.6.1.jar:3.6.1]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:171) ~[maven-resolver-provider-3.6.1.jar:3.6.1]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:530) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:515) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:403) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:356) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.process(DefaultDependencyCollector.java:344) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:498) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:451) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:356) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.process(DefaultDependencyCollector.java:344) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:498) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:451) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:356) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.process(DefaultDependencyCollector.java:344) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:247) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:279) ~[maven-resolver-impl-1.3.3.jar:1.3.3]
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169) ~[maven-core-3.6.1.jar:3.6.1]
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:225) ~[maven-core-3.6.1.jar:3.6.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:642) ~[maven-core-3.6.1.jar:3.6.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:385) ~[maven-core-3.6.1.jar:3.6.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:659) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$12(ProjectRegistryManager.java:871) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1026) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:867) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:836) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1069) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878) ~[guava-25.1-android.jar:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529) ~[guava-25.1-android.jar:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278) ~[guava-25.1-android.jar:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155) ~[guava-25.1-android.jar:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045) ~[guava-25.1-android.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953) ~[guava-25.1-android.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873) ~[guava-25.1-android.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1067) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2020-05-25 19:05:45,149 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.pom
+2020-05-25 19:05:45,149 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.pom
+2020-05-25 19:05:45,361 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.pom
+2020-05-25 19:05:45,409 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.pom
+2020-05-25 19:05:45,604 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.pom
+2020-05-25 19:05:45,614 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.pom
+2020-05-25 19:05:45,888 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.pom
+2020-05-25 19:05:45,913 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.pom
+2020-05-25 19:05:46,162 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.pom
+2020-05-25 19:05:46,162 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.pom
+2020-05-25 19:05:46,392 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.pom
+2020-05-25 19:05:46,399 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.pom
+2020-05-25 19:05:46,893 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.jar
+2020-05-25 19:05:46,904 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.jar
+2020-05-25 19:05:49,562 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.jar
+2020-05-25 19:05:49,753 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.jar
+2020-05-25 19:05:50,131 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.jar
+2020-05-25 19:05:50,324 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.jar
+2020-05-25 19:05:50,656 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.jar
+2020-05-25 19:05:50,844 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.jar
+2020-05-25 19:05:51,288 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.jar
+2020-05-25 19:05:51,476 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.jar
+2020-05-25 19:05:51,807 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.jar
+2020-05-25 19:05:51,994 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.jar
+2020-05-25 19:05:52,264 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.jar
+2020-05-25 19:05:52,449 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.jar
+2020-05-25 19:05:52,718 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.jar
+2020-05-25 19:05:52,908 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2020-05-25 19:05:53,131 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2020-05-25 19:05:53,320 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.jar
+2020-05-25 19:05:53,345 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4.jar
+2020-05-25 19:05:53,530 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.jar
+2020-05-25 19:05:53,744 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.jar
+2020-05-25 19:05:53,932 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.jar
+2020-05-25 19:05:53,947 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4.jar
+2020-05-25 19:05:54,162 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.jar
+2020-05-25 19:05:54,187 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.jar
+2020-05-25 19:05:54,378 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.jar
+2020-05-25 19:05:54,654 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.jar
+2020-05-25 19:05:54,842 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.jar
+2020-05-25 19:05:55,123 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.jar
+2020-05-25 19:05:55,314 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.jar
+2020-05-25 19:05:55,471 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13.jar
+2020-05-25 19:05:55,544 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.jar
+2020-05-25 19:05:55,660 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.jar
+2020-05-25 19:05:55,733 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+2020-05-25 19:05:55,972 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+2020-05-25 19:05:55,979 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13.jar
+2020-05-25 19:05:56,212 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.jar
+2020-05-25 19:05:56,215 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.jar
+2020-05-25 19:05:56,639 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.jar
+2020-05-25 19:05:56,710 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13.jar
+2020-05-25 19:05:56,829 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.jar
+2020-05-25 19:05:56,895 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.jar
+2020-05-25 19:05:57,063 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.jar
+2020-05-25 19:05:57,169 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13.jar
+2020-05-25 19:05:57,252 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+2020-05-25 19:05:57,357 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.jar
+2020-05-25 19:05:57,495 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+2020-05-25 19:05:57,607 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4.jar
+2020-05-25 19:05:57,685 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.jar
+2020-05-25 19:05:57,846 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2020-05-25 19:05:59,130 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.jar
+2020-05-25 19:05:59,136 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2020-05-25 19:05:59,317 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.jar
+2020-05-25 19:05:59,326 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.jar
+2020-05-25 19:05:59,592 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.jar
+2020-05-25 19:05:59,799 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.jar
+2020-05-25 19:05:59,822 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4.jar
+2020-05-25 19:06:00,013 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.jar
+2020-05-25 19:06:00,104 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.jar
+2020-05-25 19:06:00,292 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.jar
+2020-05-25 19:06:00,803 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0.jar
+2020-05-25 19:06:00,992 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.jar
+2020-05-25 19:06:01,088 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.jar
+2020-05-25 19:06:01,277 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.jar
+2020-05-25 19:06:01,668 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4.jar
+2020-05-25 19:06:01,872 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.jar
+2020-05-25 19:06:01,902 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.jar
+2020-05-25 19:06:02,091 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.jar
+2020-05-25 19:06:02,201 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4.jar
+2020-05-25 19:06:02,390 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.jar
+2020-05-25 19:06:02,458 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.jar
+2020-05-25 19:06:02,645 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.jar
+2020-05-25 19:06:02,652 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4.jar
+2020-05-25 19:06:02,843 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+2020-05-25 19:06:02,867 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.jar
+2020-05-25 19:06:03,056 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.jar
+2020-05-25 19:06:03,600 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+2020-05-25 19:06:03,794 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.jar
+2020-05-25 19:06:03,810 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.jar
+2020-05-25 19:06:03,996 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.jar
+2020-05-25 19:06:04,048 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4.jar
+2020-05-25 19:06:04,212 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.jar
+2020-05-25 19:06:04,237 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.jar
+2020-05-25 19:06:04,402 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.jar
+2020-05-25 19:06:04,720 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.jar
+2020-05-25 19:06:04,732 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4.jar
+2020-05-25 19:06:04,913 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.jar
+2020-05-25 19:06:04,920 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+2020-05-25 19:06:05,223 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.jar
+2020-05-25 19:06:05,241 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+2020-05-25 19:06:05,412 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+2020-05-25 19:06:05,430 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.jar
+2020-05-25 19:06:05,653 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+2020-05-25 19:06:05,713 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4.jar
+2020-05-25 19:06:05,936 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar
+2020-05-25 19:06:05,946 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.jar
+2020-05-25 19:06:06,254 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar
+2020-05-25 19:06:06,277 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4.jar
+2020-05-25 19:06:06,448 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar
+2020-05-25 19:06:06,472 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.jar
+2020-05-25 19:06:06,789 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar
+2020-05-25 19:06:06,871 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4.jar
+2020-05-25 19:06:06,977 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar
+2020-05-25 19:06:07,068 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.jar
+2020-05-25 19:06:07,189 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar
+2020-05-25 19:06:07,374 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4.jar
+2020-05-25 19:06:07,375 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar
+2020-05-25 19:06:07,562 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.jar
+2020-05-25 19:06:07,703 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar
+2020-05-25 19:06:07,891 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.jar
+2020-05-25 19:06:07,951 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4.jar
+2020-05-25 19:06:08,190 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.jar
+2020-05-25 19:06:08,197 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.jar
+2020-05-25 19:06:08,385 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar
+2020-05-25 19:06:08,627 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar
+2020-05-25 19:06:08,738 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4.jar
+2020-05-25 19:06:08,815 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.jar
+2020-05-25 19:06:08,928 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.jar
+2020-05-25 19:06:09,064 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.jar
+2020-05-25 19:06:09,176 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4.jar
+2020-05-25 19:06:09,252 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.jar
+2020-05-25 19:06:09,362 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.jar
+2020-05-25 19:06:09,534 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.jar
+2020-05-25 19:06:09,737 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.jar
+2020-05-25 19:06:09,762 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4.jar
+2020-05-25 19:06:09,948 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.jar
+2020-05-25 19:06:10,037 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.jar
+2020-05-25 19:06:10,257 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4.jar
+2020-05-25 19:06:10,544 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.jar
+2020-05-25 19:06:10,785 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4.jar
+2020-05-25 19:06:11,056 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.jar
+2020-05-25 19:06:11,502 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4.jar
+2020-05-25 19:06:11,689 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+2020-05-25 19:06:12,004 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+2020-05-25 19:06:12,193 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar
+2020-05-25 19:06:12,561 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar
+2020-05-25 19:06:12,776 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar
+2020-05-25 19:06:13,167 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar
+2020-05-25 19:06:13,412 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar
+2020-05-25 19:06:13,770 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar
+2020-05-25 19:06:14,026 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar
+2020-05-25 19:06:14,377 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar
+2020-05-25 19:06:14,639 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.jar
+2020-05-25 19:06:15,046 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.jar
+2020-05-25 19:06:15,235 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar
+2020-05-25 19:06:15,624 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar
+2020-05-25 19:06:15,872 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.jar
+2020-05-25 19:06:16,368 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4.jar
+2020-05-25 19:06:16,689 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.jar
+2020-05-25 19:06:17,340 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1.jar
+2020-05-25 19:06:17,712 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.jar
+2020-05-25 19:06:18,143 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4.jar
+2020-05-25 19:06:21,841 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:06:21,853 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:06:21,856 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:06:21,856 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:06:23,753 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4-sources.jar
+2020-05-25 19:06:24,985 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:06:24,987 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:06:24,988 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:06:24,989 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:06:26,443 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy/2.5.4/groovy-2.5.4-sources.jar
+2020-05-25 19:06:26,909 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy:2.5.4
+2020-05-25 19:06:27,852 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4-sources.jar
+2020-05-25 19:06:28,893 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-ant/2.5.4/groovy-ant-2.5.4-sources.jar
+2020-05-25 19:06:30,214 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-ant:2.5.4
+2020-05-25 19:06:31,230 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13-sources.jar
+2020-05-25 19:06:35,614 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13-sources.jar
+2020-05-25 19:06:35,875 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant:1.9.13
+2020-05-25 19:06:37,068 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13-sources.jar
+2020-05-25 19:06:38,417 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13-sources.jar
+2020-05-25 19:06:38,812 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-junit:1.9.13
+2020-05-25 19:06:39,831 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13-sources.jar
+2020-05-25 19:06:40,358 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13-sources.jar
+2020-05-25 19:06:40,776 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-launcher:1.9.13
+2020-05-25 19:06:41,776 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13-sources.jar
+2020-05-25 19:06:42,299 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13-sources.jar
+2020-05-25 19:06:42,624 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-antlr:1.9.13
+2020-05-25 19:06:43,621 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4-sources.jar
+2020-05-25 19:06:44,039 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-commons/2.5.4/groovy-cli-commons-2.5.4-sources.jar
+2020-05-25 19:06:45,096 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-cli-commons:2.5.4
+2020-05-25 19:06:46,079 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2020-05-25 19:06:46,816 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2020-05-25 19:06:48,117 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-cli:commons-cli:1.4
+2020-05-25 19:06:49,048 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4-sources.jar
+2020-05-25 19:06:49,685 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-cli-picocli/2.5.4/groovy-cli-picocli-2.5.4-sources.jar
+2020-05-25 19:06:50,830 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-cli-picocli:2.5.4
+2020-05-25 19:06:52,017 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0-sources.jar
+2020-05-25 19:06:54,803 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/picocli/picocli/3.7.0/picocli-3.7.0-sources.jar
+2020-05-25 19:06:54,923 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for info.picocli:picocli:3.7.0
+2020-05-25 19:06:55,908 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4-sources.jar
+2020-05-25 19:06:56,854 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-console/2.5.4/groovy-console-2.5.4-sources.jar
+2020-05-25 19:06:57,040 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-console:2.5.4
+2020-05-25 19:06:58,059 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4-sources.jar
+2020-05-25 19:06:58,580 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-datetime/2.5.4/groovy-datetime-2.5.4-sources.jar
+2020-05-25 19:06:59,163 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-datetime:2.5.4
+2020-05-25 19:07:00,108 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4-sources.jar
+2020-05-25 19:07:00,743 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-docgenerator/2.5.4/groovy-docgenerator-2.5.4-sources.jar
+2020-05-25 19:07:01,110 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-docgenerator:2.5.4
+2020-05-25 19:07:02,258 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1-sources.jar
+2020-05-25 19:07:03,811 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1-sources.jar
+2020-05-25 19:07:03,923 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.qdox:qdox:1.12.1
+2020-05-25 19:07:04,921 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4-sources.jar
+2020-05-25 19:07:05,946 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.4/groovy-groovydoc-2.5.4-sources.jar
+2020-05-25 19:07:06,491 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-groovydoc:2.5.4
+2020-05-25 19:07:07,584 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4-sources.jar
+2020-05-25 19:07:09,238 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-groovysh/2.5.4/groovy-groovysh-2.5.4-sources.jar
+2020-05-25 19:07:09,460 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-groovysh:2.5.4
+2020-05-25 19:07:10,471 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
+2020-05-25 19:07:11,695 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
+2020-05-25 19:07:12,634 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jline:jline:2.14.6
+2020-05-25 19:07:13,624 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4-sources.jar
+2020-05-25 19:07:14,460 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jmx/2.5.4/groovy-jmx-2.5.4-sources.jar
+2020-05-25 19:07:14,719 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-jmx:2.5.4
+2020-05-25 19:07:15,675 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4-sources.jar
+2020-05-25 19:07:16,508 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-json/2.5.4/groovy-json-2.5.4-sources.jar
+2020-05-25 19:07:16,782 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-json:2.5.4
+2020-05-25 19:07:17,720 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4-sources.jar
+2020-05-25 19:07:18,249 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-jsr223/2.5.4/groovy-jsr223-2.5.4-sources.jar
+2020-05-25 19:07:18,636 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-jsr223:2.5.4
+2020-05-25 19:07:19,564 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4-sources.jar
+2020-05-25 19:07:21,022 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-macro/2.5.4/groovy-macro-2.5.4-sources.jar
+2020-05-25 19:07:21,959 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-macro:2.5.4
+2020-05-25 19:07:22,943 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4-sources.jar
+2020-05-25 19:07:23,694 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-nio/2.5.4/groovy-nio-2.5.4-sources.jar
+2020-05-25 19:07:24,205 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-nio:2.5.4
+2020-05-25 19:07:25,300 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4-sources.jar
+2020-05-25 19:07:25,757 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-servlet/2.5.4/groovy-servlet-2.5.4-sources.jar
+2020-05-25 19:07:26,174 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-servlet:2.5.4
+2020-05-25 19:07:27,143 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4-sources.jar
+2020-05-25 19:07:27,983 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-sql/2.5.4/groovy-sql-2.5.4-sources.jar
+2020-05-25 19:07:28,152 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-sql:2.5.4
+2020-05-25 19:07:28,987 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4-sources.jar
+2020-05-25 19:07:29,883 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-swing/2.5.4/groovy-swing-2.5.4-sources.jar
+2020-05-25 19:07:30,259 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-swing:2.5.4
+2020-05-25 19:07:31,238 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4-sources.jar
+2020-05-25 19:07:32,376 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-templates/2.5.4/groovy-templates-2.5.4-sources.jar
+2020-05-25 19:07:33,322 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-templates:2.5.4
+2020-05-25 19:07:34,821 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4-sources.jar
+2020-05-25 19:07:35,661 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test/2.5.4/groovy-test-2.5.4-sources.jar
+2020-05-25 19:07:36,389 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-test:2.5.4
+2020-05-25 19:07:37,382 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4-sources.jar
+2020-05-25 19:07:37,986 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-test-junit5/2.5.4/groovy-test-junit5-2.5.4-sources.jar
+2020-05-25 19:07:38,128 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-test-junit5:2.5.4
+2020-05-25 19:07:38,869 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:07:38,870 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:07:38,871 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:07:38,871 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:07:39,328 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1-sources.jar
+2020-05-25 19:07:40,268 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1-sources.jar
+2020-05-25 19:07:40,435 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-launcher:1.3.1
+2020-05-25 19:07:41,376 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0-sources.jar
+2020-05-25 19:07:41,901 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0-sources.jar
+2020-05-25 19:07:42,351 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.0.0
+2020-05-25 19:07:43,321 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1-sources.jar
+2020-05-25 19:07:44,671 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1-sources.jar
+2020-05-25 19:07:45,382 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.3.1
+2020-05-25 19:07:46,393 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1-sources.jar
+2020-05-25 19:07:47,746 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1-sources.jar
+2020-05-25 19:07:48,958 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.3.1
+2020-05-25 19:07:49,875 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1-sources.jar
+2020-05-25 19:07:50,397 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1-sources.jar
+2020-05-25 19:07:51,065 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.1.1
+2020-05-25 19:07:52,027 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1-sources.jar
+2020-05-25 19:07:52,854 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1-sources.jar
+2020-05-25 19:07:53,105 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:07:53,107 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:07:53,108 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:07:53,109 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:07:53,646 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.3.1
+2020-05-25 19:07:54,895 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1-sources.jar
+2020-05-25 19:07:56,335 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1-sources.jar
+2020-05-25 19:07:56,829 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.3.1
+2020-05-25 19:07:58,068 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4-sources.jar
+2020-05-25 19:07:58,691 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-testng/2.5.4/groovy-testng-2.5.4-sources.jar
+2020-05-25 19:07:59,879 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-testng:2.5.4
+2020-05-25 19:08:00,833 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1-sources.jar
+2020-05-25 19:08:02,394 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.13.1/testng-6.13.1-sources.jar
+2020-05-25 19:08:03,858 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:6.13.1
+2020-05-25 19:08:04,827 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4-sources.jar
+2020-05-25 19:08:05,756 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-xml/2.5.4/groovy-xml-2.5.4-sources.jar
+2020-05-25 19:08:06,628 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-xml:2.5.4
+2020-05-25 19:08:07,037 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:08:07,037 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:08:07,039 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:08:07,039 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:10:38,810 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-25 19:13:02,441 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:13:02,448 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:13:02,454 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:13:02,454 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:13:52,672 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:13:52,677 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:13:52,681 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:13:52,682 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:14:06,590 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:14:06,590 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:14:06,592 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:14:06,593 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:14:17,650 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:14:17,652 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:14:17,654 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:14:17,655 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:14:56,946 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:14:56,948 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:14:56,950 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:14:56,951 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:15:04,957 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:15:04,958 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:15:04,961 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:15:04,961 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:15:27,203 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:15:27,204 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:15:27,206 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:15:27,207 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:15:53,120 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:15:53,122 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:15:53,124 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:15:53,125 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:18:52,657 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:18:52,657 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:18:52,658 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:18:52,659 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:20:01,719 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-25 19:20:03,278 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-25 19:20:03,972 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/main/java
+2020-05-25 19:20:03,973 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/main/resources
+2020-05-25 19:20:03,974 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloWorld2/src/test/java
+2020-05-25 19:20:03,974 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /helloWorld2/src/test/resources
+2020-05-25 19:20:04,455 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-05-25 19:20:05,088 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:20:05,089 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:20:05,091 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:20:05,092 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:22:28,876 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-25 19:22:29,633 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:22:29,636 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:22:29,638 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:22:29,639 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:25:37,458 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:25:37,459 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:25:37,460 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:25:37,462 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:26:11,665 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:26:11,665 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:26:11,667 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:26:11,667 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:27:01,988 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:27:01,989 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:27:01,991 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:27:01,993 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:29:58,697 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:29:58,698 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:29:58,699 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:29:58,700 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:34:13,922 [Worker-41: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: guru.springboot.java:helloWorld2:0.0.1-SNAPSHOT @ C:\Users\v127p\eclipse-workspace\HelloWorld2\helloWorld2\pom.xml.
+2020-05-25 19:34:15,105 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:34:15,106 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:34:15,109 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:34:15,109 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:34:16,586 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:34:16,586 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:34:16,587 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:34:16,588 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:35:15,484 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:35:15,485 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:35:15,486 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:35:15,487 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:35:16,515 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:35:16,517 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:35:16,520 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:35:16,520 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:35:32,565 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:35:32,566 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 19:35:32,568 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 19:35:32,569 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

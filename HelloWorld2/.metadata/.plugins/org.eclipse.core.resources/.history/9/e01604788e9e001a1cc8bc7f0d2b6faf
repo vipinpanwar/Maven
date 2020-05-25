@@ -1,0 +1,10 @@
+package java;
+
+public class JavaHelloWorld {
+
+    public String getHello(){
+        return "Hello World";
+    }}}
+    }
+
+}

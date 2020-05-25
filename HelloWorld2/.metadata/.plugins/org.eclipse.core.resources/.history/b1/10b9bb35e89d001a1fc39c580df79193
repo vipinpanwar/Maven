@@ -1,0 +1,12 @@
+package mapper;
+
+import org.mapstruct.MapperConfig;
+import org.mapstruct.factory.Mappers;
+
+@MapperConfig
+public interface UserMapper {
+	UserMapper INSTANCE=Mappers.getMapper(UserMapper.class);	
+	
+	
+	
+}

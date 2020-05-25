@@ -1,0 +1,14 @@
+package java;
+
+public class JavaHelloWorld {
+
+	public static void main(Strings [] args) {
+		
+	}
+	
+    public String getHello(){}
+        return "Hello World";
+    
+    }
+
+}
